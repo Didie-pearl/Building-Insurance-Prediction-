@@ -37,7 +37,11 @@ I experimented with three algorithms: **Logistic Regression**, **Random Forest**
 * `insurance_claim_model.pkl`: The final trained model (ready for deployment).
 * `requirements.txt`: Dependencies for reproducing the analysis.
 
-## 🚀 How to Run
-1. Clone the repo:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/Building-Insurance-Prediction-Nigeria.git](https://github.com/YOUR_USERNAME/Building-Insurance-Prediction-Nigeria.git)
+## 🚀 How to Use This Project
+1. **Download the Files:**
+   - Download `Notebook.ipynb` and `Train_data.csv` from this repository.
+2. **Open in Jupyter or Colab:**
+   - Upload the notebook to **Google Colab** or open it in **Jupyter Notebook**.
+   - Upload the `Train_data.csv` file to the notebook's environment.
+3. **Run the Code:**
+   - Run all cells to see the data cleaning, model training, and the final results.
