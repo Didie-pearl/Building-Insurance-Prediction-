@@ -20,6 +20,7 @@ I experimented with three algorithms: **Logistic Regression**, **Random Forest**
 | Random Forest | 0.66 | Struggled with noise |
 
 *Metric used: ROC-AUC (Area Under the Receiver Operating Characteristic Curve) due to class imbalance.*
+`![ROC Curve] (PASTE_IMAGE_URL_HERE)`
 
 ##  Data Pipeline
 1.  **Data Cleaning:** handled missing values in `Garden`, `Geo_Code`, and `Date_of_Occupancy`.
